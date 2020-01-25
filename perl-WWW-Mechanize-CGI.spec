@@ -4,7 +4,6 @@
 
 %define		pdir	WWW
 %define		pnam	Mechanize-CGI
-%include	/usr/lib/rpm/macros.perl
 Summary:	WWW::Mechanize::CGI - Use WWW::Mechanize with CGI applications
 Name:		perl-WWW-Mechanize-CGI
 Version:	0.3
